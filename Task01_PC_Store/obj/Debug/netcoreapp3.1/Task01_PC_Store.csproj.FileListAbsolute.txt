@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\Task01_PC_Store.exe
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\Task01_PC_Store.deps.json
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\Task01_PC_Store.runtimeconfig.json
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\Task01_PC_Store.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\Task01_PC_Store.dll
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\Task01_PC_Store.pdb
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\obj\Debug\netcoreapp3.1\Task01_PC_Store.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\obj\Debug\netcoreapp3.1\Task01_PC_Store.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\obj\Debug\netcoreapp3.1\Task01_PC_Store.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\obj\Debug\netcoreapp3.1\Task01_PC_Store.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\obj\Debug\netcoreapp3.1\Task01_PC_Store.dll
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\obj\Debug\netcoreapp3.1\Task01_PC_Store.pdb
+C:\Users\Kiril\source\repos\Test_Exam\Test_Exam\obj\Debug\netcoreapp3.1\Task01_PC_Store.genruntimeconfig.cache
